@@ -1,3 +1,9 @@
 $ git remote -v
 > origin  https://github.com/YOUR-USERNAME/YOUR-FORK.git (fetch)
 > origin  https://github.com/YOUR-USERNAME/YOUR-FORK.git (push)
+git remote add upstream https://github.com/ORIGINAL-OWNER/Spoon-Knife.git
+$ git remote -v
+> origin    https://github.com/YOUR-USERNAME/YOUR-FORK.git (fetch)
+> origin    https://github.com/YOUR-USERNAME/YOUR-FORK.git (push)
+> upstream  https://github.com/ORIGINAL-OWNER/ORIGINAL-REPOSITORY.git (fetch)
+> upstream  https://github.com/ORIGINAL-OWNER/ORIGINAL-REPOSITORY.git (push)
